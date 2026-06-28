@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+build/
+dist/
+*.pyc
+
+# Environment/Settings
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+.venv/
+venv/
+lib64
